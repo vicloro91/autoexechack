@@ -1,7 +1,7 @@
-sleep 1
+sleep 3
 t app key mode
-sleep 1
+sleep 15
 t app key record
-sleep 1
-d:\timelapse.ash
+sleep 10
+reboot yes
 
